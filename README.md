@@ -2,6 +2,12 @@
 
 This is a simple project to add tests on etsy website with cypress
 
+# Reporting
+
+[Click here to see all report](https://dashboard.cypress.io/projects/gsmost)
+
+- https://dashboard.cypress.io/projects/gsmost
+
 # How to install
 
 ```
